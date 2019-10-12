@@ -1,0 +1,11 @@
+C:\csharp\ar\ifandifelse\bin\Debug\netcoreapp3.0\ifandifelse.exe
+C:\csharp\ar\ifandifelse\bin\Debug\netcoreapp3.0\ifandifelse.deps.json
+C:\csharp\ar\ifandifelse\bin\Debug\netcoreapp3.0\ifandifelse.runtimeconfig.json
+C:\csharp\ar\ifandifelse\bin\Debug\netcoreapp3.0\ifandifelse.runtimeconfig.dev.json
+C:\csharp\ar\ifandifelse\bin\Debug\netcoreapp3.0\ifandifelse.dll
+C:\csharp\ar\ifandifelse\bin\Debug\netcoreapp3.0\ifandifelse.pdb
+C:\csharp\ar\ifandifelse\obj\Debug\netcoreapp3.0\ifandifelse.csprojAssemblyReference.cache
+C:\csharp\ar\ifandifelse\obj\Debug\netcoreapp3.0\ifandifelse.AssemblyInfoInputs.cache
+C:\csharp\ar\ifandifelse\obj\Debug\netcoreapp3.0\ifandifelse.AssemblyInfo.cs
+C:\csharp\ar\ifandifelse\obj\Debug\netcoreapp3.0\ifandifelse.dll
+C:\csharp\ar\ifandifelse\obj\Debug\netcoreapp3.0\ifandifelse.pdb
